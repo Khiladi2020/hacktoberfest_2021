@@ -1,1 +1,1 @@
-print('Insert penis and fuck her straight for 2 hours')
+print('Fuck i got failed in this exam SHITT...!!')
