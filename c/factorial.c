@@ -6,7 +6,8 @@ int factorial(int n){
 }
 
 int main(){
-	int n = 5;
-	printf("Factorial: %d",factorial(n));
+	int n;
+	printf("Enter the number to find the factorial: ");
+	printf("\nFactorial: %d",factorial(n));
 	return 0;
 }
